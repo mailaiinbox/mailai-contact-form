@@ -11,7 +11,7 @@ class Mailai_Form_Handler {
 	}
 
 	public function load_scripts() {
-		wp_enqueue_script( 'mailai-js', MAILAI_PLUGIN_URL . 'assets/mailai.js', [], MAILAI_VERSION, true );
+		wp_enqueue_script( 'mailai-js', MAILAI_PLUGIN_URL . 'js/mailai.js', [], MAILAI_VERSION, true );
 	}
 
 	public function render_form() {
