@@ -48,6 +48,8 @@ To keep the plugin lightweight, the form inherits your theme's default styles. Y
 2. The sleek, AJAX-powered contact form in action.
 
 == Changelog ==
+= 1.0.1 =
+* Tested and optimized for WordPress 7.0 compatibility.
 
 = 1.0.0 =
 * Initial release.
