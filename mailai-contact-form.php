@@ -2,7 +2,7 @@
 /**
  * Plugin Name:       Mailai Contact Form
  * Description:       A professional, lightweight contact form allowing you to bring your own SMTP. Built for performance and reliability.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Sanjeev
  * Author URI:        https://mailai.in
  * License:           GPL-2.0+
@@ -14,7 +14,7 @@ if ( ! defined( 'WPINC' ) ) {
 	die( 'Direct access is not permitted.' );
 }
 
-define( 'MAILAI_VERSION', '1.0.0' );
+define( 'MAILAI_VERSION', '1.0.1' );
 define( 'MAILAI_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'MAILAI_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
 
